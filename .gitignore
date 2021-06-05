@@ -1,0 +1,9 @@
+env
+pandas_and_numpy/data
+projPandas/data
+pandas_and_numpy/.ipynb_checkpoints
+projPandas/toSend
+questions/.idea
+.vscode
+matplotlib_tut/.idea
+objectOrientedProgramming/.idea

@@ -8,7 +8,7 @@ import cv2 as cv
 
 # Reading Video
 
-# vid = cv.VideoCapture('.\Resources\Videos\dog.mp4')
+# vid = cv.VideoCapture('.\Resources\Videos\dog.mp4') # for webcamera or any attached camera to Computer pass integer
 
 # while True:
 #     isTrue, frame = vid.read()
@@ -19,4 +19,5 @@ import cv2 as cv
 
 # vid.release()
 # cv.destroyAllWindows()
+
 

@@ -6,7 +6,7 @@ import cv2 as cv
 # cv.imshow('Cat', img)
 # cv.waitKey(0)
 
-# Reading Video`x
+# Reading Video
 
 # vid = cv.VideoCapture('.\Resources\Videos\dog.mp4')
 
